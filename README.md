@@ -14,6 +14,6 @@
 
 <img src="images\Task_1.jpg" height="251" width="581"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_30.01.2023-Java/blob/main/Task_1.java "Открыть")
 
 ---
